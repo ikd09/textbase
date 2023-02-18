@@ -23,10 +23,7 @@
 "I like visitors, but I like to know them before they come visiting."-split-
 "I am the clue-finder, the web-cutter, the stinging fly. I was chosen for the lucky number."-split-
 "I suppose hobbits need some description nowadays, since they have become rare and shy of the Big People, as they call us."-split-
-"The road goes ever on and on,
-Down from the door where it began.
-Now far ahead the Road has gone,
-And I must follow, if I can."-split-
+"The road goes ever on and on."-split-
 "If more of us valued food and cheer and song above hoarded gold, it would be a merrier world."-split-
 "I know I don't deserve a share in the war, nor does any soldier, but peace and freedom for all."-split-
 "There are no safe paths in this part of the world. Remember you are over the Edge of the Wild now, and in for all sorts of fun wherever you go."-split-
@@ -39,9 +36,9 @@ And I must follow, if I can."-split-
 "It's the job that's never started as takes longest to finish."-split-
 "I don't suppose you have much to do with the outside world, and that you've never seen a great deal that matters with your own eyes."-split-
 "All we have to decide is what to do with the time that is given us."-split-
-"All that is gold does not glitter,
-Not all those who wander are lost;
-The old that is strong does not wither,
+"All that is gold does not glitter."-split-
+"Not all those who wander are lost;"-split-
+"The old that is strong does not wither."-split-
 Deep roots are not reached by the frost."-split-
 "It's a dangerous business, going out your door. You step onto the road, and if you don't keep your feet, there's no telling where you might be swept off to."-split-
 "If you want to know what after-dinner speeches are like, go and sit among the guests and listen to the toastmaster."-split-
