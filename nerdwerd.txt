@@ -1,10 +1,10 @@
-nerd-
-monkey-
-goon-
-buffoon-
-loser-
-fool-
-idiot-
-simpleton-
-nincompoop-
-heliophobe-
+a nerd-
+a monkey-
+a goon-
+a buffoon-
+a loser-
+a fool-
+an idiot-
+a simpleton-
+a nincompoop-
+a heliophobe-
