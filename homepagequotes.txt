@@ -1,7 +1,6 @@
 "I'm going on an adventure!"-split-
 "Go back? No good at all! Go sideways? Impossible! Go forward? Only thing to do! On we go!"-split-
 "Victory, after all, I suppose! Well, it seems a very gloomy business."-split-
-"I should think so - in these parts! We are plain quiet folk and have no use for adventures. Nasty disturbing uncomfortable things! Make you late for dinner! I can't think what anybody sees in them."-split-
 "Never laugh at live dragons!"-split-
 "The road goes ever on and on."-split-
 "If ever you are passing my way. Don't wait to knock! Tea is at four, but any of you are welcome at any time!"-split-
@@ -19,19 +18,15 @@
 "May the wind under your wings bear you where the sun sails and the moon walks."-split-
 "Third time pays for all."-split-
 "I don't know where there is a key, that's certain! Unless you know something about my grandmother that I don't!"-split-
-"Do you wish me a good morning, or mean that it is a good morning whether I want it or not; or that you feel good this morning; or that it is a morning to be good on?"-split-
 "Never laugh at live dragons."-split-
 "Fly, you fools!"-split-
-"In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to <br>sit down on or to eat: it was a hobbit-hole, and that means comfort."-split-
 "I like visitors, but I like to know them before they come visiting."-split-
 "I am the clue-finder, the web-cutter, the stinging fly. I was chosen for the lucky number."-split-
 "I suppose hobbits need some description nowadays, since they have become rare and shy of the Big People, as they call us."-split-
-"Smaug certainly looked fast asleep, when Bilbo peeped once more from the entrance. He was just about to step out on to the floor when he caught a sudden thin and piercing ray of red from under the drooping lid of Smaug's left eye. He was only pretending to sleep! He was watching the tunnel entrance!"-split-
 "The road goes ever on and on,
 Down from the door where it began.
 Now far ahead the Road has gone,
 And I must follow, if I can."-split-
-"It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to."-split-
 "If more of us valued food and cheer and song above hoarded gold, it would be a merrier world."-split-
 "I know I don't deserve a share in the war, nor does any soldier, but peace and freedom for all."-split-
 "There are no safe paths in this part of the world. Remember you are over the Edge of the Wild now, and in for all sorts of fun wherever you go."-split-
@@ -41,9 +36,7 @@ And I must follow, if I can."-split-
 "I have heard that it is no use crying over spilt milk, but this is worth crying over."-split-
 "There is a lot more in him than you guess, and a deal more than he has any idea of himself."-split-
 "May the stars shine upon your faces!"-split-
-"You don't really suppose, do you, that all your adventures and escapes were managed by mere luck, just for your sole benefit? You are a very fine person, Mr. Baggins, and I am very fond of you; but you are only quite a little fellow in a wide world after all!"-split-
 "It's the job that's never started as takes longest to finish."-split-
-"Now it is a strange thing, but things that are good to have and days that are good to spend are soon told about, and not much to listen to; while things that are uncomfortable, palpitating, and even gruesome, may make a good tale, and take a deal of telling anyway."-split-
 "I don't suppose you have much to do with the outside world, and that you've never seen a great deal that matters with your own eyes."-split-
 "All we have to decide is what to do with the time that is given us."-split-
 "All that is gold does not glitter,
@@ -51,7 +44,6 @@ Not all those who wander are lost;
 The old that is strong does not wither,
 Deep roots are not reached by the frost."-split-
 "It's a dangerous business, going out your door. You step onto the road, and if you don't keep your feet, there's no telling where you might be swept off to."-split-
-"There is nothing like looking, if you want to find something. You certainly usually find something, if you look, but it is not always quite the something you were after."-split-
 "If you want to know what after-dinner speeches are like, go and sit among the guests and listen to the toastmaster."-split-
 "I have no idea what to say, but I'm going to say something. That's the way to start, isn't it?"-split-
 "The world is not in your books and maps, it's out there."-split-
